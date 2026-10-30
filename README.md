@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://github.com/polarminhapomba-crypto?tab=repositories">Projetos</a> •
-  <a href="https://github.com/polarminhapomba-crypto/minecraft-afk-bot">Projeto em destaque</a> •
   <a href="https://github.com/polarminhapomba-crypto">GitHub</a>
 </p>
 
@@ -27,13 +26,9 @@ Neste momento, meu foco está em desenvolvimento com JavaScript, bots para comun
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="42" alt="Railway" />
 </div>
 
-## Projeto em destaque
+## Projetos e aprendizado
 
-### [Minecraft AFK Bot](https://github.com/polarminhapomba-crypto/minecraft-afk-bot)
-
-Bot para Minecraft Bedrock Edition desenvolvido para manter um servidor ativo com reconexão automática. O projeto utiliza JavaScript e pode ser executado como worker no Railway.
-
-**Aprendizados demonstrados:** automação, gerenciamento de processos, variáveis de ambiente e deploy de aplicações Node.js.
+Estou usando este perfil para documentar minha evolução na programação, testar ideias e publicar projetos práticos. Meu foco está em automação, bots e aplicações simples que possam ser colocadas em funcionamento com rapidez.
 
 ## O que estou construindo
 
