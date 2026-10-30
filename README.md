@@ -1,33 +1,58 @@
-# Olá, eu sou MR POLAR 👋
+<div align="center">
+  <img src="./assets/banner.svg" alt="Toji — JavaScript, Automation and Bots" width="100%" />
+</div>
 
-Desenvolvedor independente com foco em **JavaScript**, automação e criação de bots para comunidades online.
+<h1 align="center">Toji</h1>
 
-Atualmente, estou construindo projetos práticos, explorando novas ferramentas e aprimorando minhas habilidades em desenvolvimento e deploy de aplicações.
+<p align="center">
+  Desenvolvedor independente focado em transformar ideias em projetos práticos com JavaScript, automação e bots.
+</p>
+
+<p align="center">
+  <a href="https://github.com/polarminhapomba-crypto?tab=repositories">Projetos</a> •
+  <a href="https://github.com/polarminhapomba-crypto/minecraft-afk-bot">Projeto em destaque</a> •
+  <a href="https://github.com/polarminhapomba-crypto">GitHub</a>
+</p>
 
 ## Sobre mim
 
-- Desenvolvo bots e automações para manter serviços online e facilitar tarefas repetitivas.
-- Tenho experiência prática com projetos em JavaScript executados com Node.js.
-- Utilizo Railway para deploy e operação de workers.
-- Estou sempre aprendendo e transformando ideias em projetos funcionais.
+Estou construindo minha trajetória na programação por meio de projetos reais. Gosto de criar automações úteis, testar ideias rapidamente e aprender colocando soluções para funcionar.
 
-## Tecnologias e ferramentas
+Neste momento, meu foco está em desenvolvimento com JavaScript, bots para comunidades online e deploy de aplicações leves na nuvem.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+## Stack atual
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,npm,git,github" height="42" alt="JavaScript, Node.js, npm, Git e GitHub" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="42" alt="Railway" />
+</div>
 
 ## Projeto em destaque
 
 ### [Minecraft AFK Bot](https://github.com/polarminhapomba-crypto/minecraft-afk-bot)
 
-Bot para Minecraft Bedrock Edition que mantém um servidor ativo com reconexão automática e suporte a deploy como worker no Railway.
+Bot para Minecraft Bedrock Edition desenvolvido para manter um servidor ativo com reconexão automática. O projeto utiliza JavaScript e pode ser executado como worker no Railway.
+
+**Aprendizados demonstrados:** automação, gerenciamento de processos, variáveis de ambiente e deploy de aplicações Node.js.
+
+## O que estou construindo
+
+- Projetos de automação que resolvem tarefas repetitivas.
+- Bots e ferramentas para comunidades online.
+- Aplicações simples, funcionais e fáceis de colocar em produção.
+- Conhecimento prático em JavaScript, Node.js e infraestrutura básica.
+
+## Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=polarminhapomba-crypto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarminhapomba-crypto&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Linguagens mais usadas" />
+</div>
 
 ## Objetivo
 
-Continuar evoluindo como desenvolvedor, criar soluções úteis e compartilhar projetos que demonstrem minha aprendizagem na prática.
+Continuar evoluindo como desenvolvedor, publicar projetos melhores e construir soluções que sejam úteis para outras pessoas.
 
----
-
-Se você gostou de algum projeto, fique à vontade para deixar uma estrela ou abrir uma sugestão.
+<div align="center">
+  <sub>Construindo em público, um projeto de cada vez.</sub>
+</div>
